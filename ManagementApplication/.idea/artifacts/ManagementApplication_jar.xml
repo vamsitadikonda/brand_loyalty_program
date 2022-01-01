@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ManagementApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManagementApplication_jar</output-path>
+    <root id="archive" name="ManagementApplication.jar">
+      <element id="module-output" name="ManagementApplication" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ojdbc8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
